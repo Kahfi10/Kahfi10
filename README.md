@@ -1,32 +1,42 @@
-# Hi there 👋, I'm Ashabul Kahfi
+# 👨‍💻 Ashabul Kahfi
 
 **Software Engineering Student @ Universitas Muhammadiyah Makassar** 🎓
 
-Saya sangat tertarik dengan pengembangan perangkat lunak, optimasi algoritma, dan otomatisasi *deployment*. Saat ini, saya fokus mengeksplorasi praktik DevOps, Data Science, dan arsitektur *backend*.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:105841107723@student.unismuh.ac.id)
 
-### 🚀 Apa yang sedang saya kerjakan?
-- 🔬 Menulis artikel riset terkait **HSSO-BNF (Hybrid Salp Swarm Optimization & Behavioral Nudge Framework)** untuk optimasi alokasi tugas *developer*.
-- ⚙️ Membangun dan mengonfigurasi *pipeline* CI/CD menggunakan **Jenkins**, **Docker**, dan **Git**.
-- 🔐 Mengembangkan sistem manajemen catatan aman berbasis CLI menggunakan metode enkripsi **AES-GCM** dan KDF **PBKDF2**.
-- 🌳 Meneliti rekonstruksi *phylogenetic tree* untuk deteksi *code clones*.
+---
 
-### 💻 Tech Stack & Tools
-Berikut adalah bahasa dan teknologi yang sering saya gunakan:
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75rqte1/giphy.gif" alt="GitHub Octocat coding GIF" width="250">
 
+I am a Software Engineering student with a deep interest in backend development, algorithm optimization, and DevOps practices. I am passionate about bridging academic research with real-world software implementation to solve complex problems.
+
+### 🚀 Current Focus & Research
+
+* **Research & Optimization:** Writing a research article on the **HSSO-BNF** (*Hybrid Salp Swarm Optimization & Behavioral Nudge Framework*) to optimize developer-task allocation.
+* **DevOps & CI/CD:** Designing and configuring automated deployment pipelines using **Jenkins**, **Docker**, and **Git**.
+* **Security Engineering:** Developing a secure, CLI-based note management system implementing **AES-GCM** cryptography and **PBKDF2** key derivation.
+* **Data Structures & Analysis:** Researching phylogenetic tree reconstruction for the analysis and detection of code clones.
+
+<br> ### 💻 Tech Stack & Tools
+
+**Languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Frameworks** <br>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**DevOps & Infrastructure** <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Analytics
-*Statistik di bawah ini di-generate secara otomatis setiap hari menggunakan GitHub Actions.*
 
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics Ashabul Kahfi" width="100%">

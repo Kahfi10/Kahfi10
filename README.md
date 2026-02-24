@@ -7,8 +7,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75rqte1/giphy.gif" alt="GitHub Octocat coding GIF" width="250">
-
 I am a Software Engineering student with a deep interest in backend development, algorithm optimization, and DevOps practices. I am passionate about bridging academic research with real-world software implementation to solve complex problems.
 
 ### 🚀 Current Focus & Research

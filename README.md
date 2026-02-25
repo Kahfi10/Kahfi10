@@ -1,22 +1,22 @@
-# 👨‍💻 Ashabul Kahfi
+# Ashabul Kahfi
 
-**Software Engineering Student @ Universitas Muhammadiyah Makassar** 🎓
+**Punkrocker**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:105841107723@student.unismuh.ac.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashabul-kahfi-850b401a1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashabulk265@gmail.com)
 
 ---
 
-I am a Software Engineering student with a deep interest in backend development, algorithm optimization, and DevOps practices. I am passionate about bridging academic research with real-world software implementation to solve complex problems.
+I am a ordinary students.
 
-### 🚀 Current Focus & Research
+### Current Focus & Research
 
 * **Research & Optimization:** Writing a research article on the **HSSO-BNF** (*Hybrid Salp Swarm Optimization & Behavioral Nudge Framework*) to optimize developer-task allocation.
 * **DevOps & CI/CD:** Designing and configuring automated deployment pipelines using **Jenkins**, **Docker**, and **Git**.
 * **Security Engineering:** Developing a secure, CLI-based note management system implementing **AES-GCM** cryptography and **PBKDF2** key derivation.
 * **Data Structures & Analysis:** Researching phylogenetic tree reconstruction for the analysis and detection of code clones.
 
-<br> ### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +34,7 @@ I am a Software Engineering student with a deep interest in backend development,
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics Ashabul Kahfi" width="100%">

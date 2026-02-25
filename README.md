@@ -7,15 +7,15 @@
 
 ---
 
-I am a ordinary students.
+I am a ordinary students and im a punkrocker yes i am.
 
 ### Current Focus & Research
 
 * **Research & Optimization:** Writing a research article on the **HSSO-BNF** (*Hybrid Salp Swarm Optimization & Behavioral Nudge Framework*) to optimize developer-task allocation.
+* **Explainable AI & Defect Prediction:** Researching and developing a framework titled *"Beyond Accuracy: An Explainable Just-In-Time Defect Prediction Framework Using Hybrid SMOTE-XGBoost and SHAP Interaction Analysis"*.
 * **DevOps & CI/CD:** Designing and configuring automated deployment pipelines using **Jenkins**, **Docker**, and **Git**.
 * **Security Engineering:** Developing a secure, CLI-based note management system implementing **AES-GCM** cryptography and **PBKDF2** key derivation.
 * **Data Structures & Analysis:** Researching phylogenetic tree reconstruction for the analysis and detection of code clones.
-
 ### Tech Stack & Tools
 
 **Languages** <br>
